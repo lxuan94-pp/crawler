@@ -1,0 +1,44 @@
+<component name="libraryTable">
+  <library name="activation (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cssparser-0.9.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/htmlunit-2.15-OSGi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/htmlunit-2.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/htmlunit-core-js-2.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-cache-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-win-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpmime-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-io-9.2.18.v20160721.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-util-9.2.18.v20160721.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-platform-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-20160810.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsoup-1.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsoup-1.10.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.7-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-jdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/neko-htmlunit-2.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sac-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/serializer-2.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/websocket-api-9.2.18.v20160721.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/websocket-client-9.2.18.v20160721.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/websocket-common-9.2.18.v20160721.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xalan-2.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xercesImpl-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xml-apis-1.4.01.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
